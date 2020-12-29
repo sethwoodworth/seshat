@@ -2,7 +2,7 @@
 name = "seshat"
 version = "0.1.0"
 description = ""
-authors = ["Seth Woodworth <swoodworth@cargurus.com>"]
+authors = ["Seth Woodworth <seth@sethish.com>", "Alex P Fox <alex@alexandrafox.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
